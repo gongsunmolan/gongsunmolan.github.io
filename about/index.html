@@ -256,6 +256,21 @@
 
 
     
+        <link rel="stylesheet" href="//unpkg.com/gitment/style/default.css">
+    <script src="//unpkg.com/gitment/dist/gitment.browser.js"></script>
+    <script>
+        var gitment = new Gitment({
+            owner: 'gongsunmolan',
+            repo: 'gongsunmolan.github.io',
+            oauth: {
+                client_id: 'bccea27186ae64b5cabd',
+                client_secret: '813daec1034c1cb67f552ca57699cb40933401f5',
+            },
+        })
+        gitment.render('comments')
+    </script>
+
+    
 </section>
         
       </div>

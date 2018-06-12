@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://gongsunmolan.github.io/"/>
   <updated>2018-06-12T11:23:32.049Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://gongsunmolan.github.io/</id>
   
   <author>
     <name>公孙墨岚博客</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/hello/"/>
-    <id>http://yoursite.com/hello/</id>
+    <link href="https://gongsunmolan.github.io/12/hello/"/>
+    <id>https://gongsunmolan.github.io/12/hello/</id>
     <published>2018-06-12T11:23:05.645Z</published>
     <updated>2018-06-12T11:23:32.049Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/hello-world/"/>
-    <id>http://yoursite.com/hello-world/</id>
+    <link href="https://gongsunmolan.github.io/12/hello-world/"/>
+    <id>https://gongsunmolan.github.io/12/hello-world/</id>
     <published>2018-06-12T09:33:02.480Z</published>
     <updated>2018-06-12T09:33:02.481Z</updated>
     

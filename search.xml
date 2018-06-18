@@ -3,10 +3,31 @@
   
     
     <entry>
+      <title>博客开篇</title>
+      <link href="/2018/06/19/2018%E5%B9%B46%E6%9C%8819%E6%97%A5.html"/>
+      <url>/2018/06/19/2018%E5%B9%B46%E6%9C%8819%E6%97%A5.html</url>
+      <content type="html"><![CDATA[<h1 id="公孙墨岚博客开博了"><a href="#公孙墨岚博客开博了" class="headerlink" title="公孙墨岚博客开博了"></a>公孙墨岚博客开博了</h1><p>开始记录我的生活以及学习经验</p><p>博客搭建在github上，搭建过程百度完成后期自己写一个搭建过程</p><h1 id="嗯"><a href="#嗯" class="headerlink" title="嗯"></a>嗯</h1><p>我就是爱折腾，唉，一直就像记录自己的事情 所以开始把</p>]]></content>
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title></title>
       <link href="/2018/06/17/2018%E5%B9%B46%E6%9C%8817%E6%97%A5.html"/>
       <url>/2018/06/17/2018%E5%B9%B46%E6%9C%8817%E6%97%A5.html</url>
-      <content type="html"><![CDATA[<hr><p>title: title                #文章標題<br>date:  2018-06-18 10:35:56  #文章生成時間<br>categories: “uncategorized” #文章分類目錄 可以省略<br>tags:                       #文章標籤 可以省略</p><pre><code>- 标签1- 标签2</code></pre><h2 id="description-你對本頁的描述-可以省略"><a href="#description-你對本頁的描述-可以省略" class="headerlink" title="description: #你對本頁的描述 可以省略"></a>description: #你對本頁的描述 可以省略</h2><p>#测试标题以及分类是否正确</p>]]></content>
+      <content type="html"><![CDATA[<hr><h2 id="title-789-文章標題"><a href="#title-789-文章標題" class="headerlink" title="title: 789 #文章標題 "></a>title: 789 #文章標題 </h2><h1 id="456"><a href="#456" class="headerlink" title="456"></a>456</h1><h1 id="654"><a href="#654" class="headerlink" title="654"></a>654</h1>]]></content>
       
       
     </entry>
@@ -40,16 +61,16 @@
     </entry>
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       <content type="html"><![CDATA[]]></content>
     </entry>
     
